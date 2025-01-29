@@ -10,6 +10,8 @@ https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-lan
 
 https://huggingface.co/blog/paligemma2 
 
+este código tiene como base el articulo expuesto en hugging face
+
 ## Descarga del Modelo
 
 El modelo PaLiGeMMA 2 se puede descargar directamente desde Hugging Face usando el siguiente script:
