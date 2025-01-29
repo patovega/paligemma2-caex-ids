@@ -73,7 +73,7 @@ python main.py
 
 A continuación se muestra un ejemplo de los resultados obtenidos con el modelo:
 
-![Resultados de reconocimiento](results.png)
+![Resultados de reconocimiento](results.jpg)
 
 La imagen muestra el procesamiento de 18 imágenes diferentes de camiones mineros donde:
 - Verde: Identificación correcta
